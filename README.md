@@ -1,1 +1,1 @@
-# zrh3d
+# zrh3d the Bitcoin for Zürich 3D
